@@ -12,3 +12,4 @@ https://www.tindie.com/products/22726/<br>
 # with antennas:<br>
 https://www.ebay.com/itm/254974391512<br>
 https://www.tindie.com/products/22727/<br>
+Produced by El-tech in Estonia<br>
