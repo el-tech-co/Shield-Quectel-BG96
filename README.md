@@ -1,6 +1,6 @@
 # Shield-Quectel-BG96
-Documentation for Shield IoT Quectel BG96
-The board Shield BG96 provides connection to the LTE networks. It uses the Quectel BG96 LTE module, which allows Internet of Things (IoT) and Machine to Machine communication (M2M) technologies.</br>
+Documentation for Shield IoT Quectel BG96<br>
+The board Shield BG96 provides connection to the LTE networks. It uses the Quectel BG96 LTE module, which allows Internet of Things (IoT) and Machine to Machine communication (M2M) technologies.<br>
 The module is an embedded IoT communication solution. It supports LTE Cat M1 and NB1 technologies. The LTE CAT1 and NB1 technologies meet specific requirements of IoT network.
 Shield BG96 supplies different other features which provide simple and secure connection to 3GPP IoT technologies.
 Is compatible with Raspberry Pi x, Arduino and other dev boards.
