@@ -13,3 +13,6 @@ https://www.tindie.com/products/22726/<br>
 https://www.ebay.com/itm/254974391512<br>
 https://www.tindie.com/products/22727/<br>
 Produced by El-tech in Estonia<br>
+
+# Arduino library:<br>
+https://www.arduino.cc/reference/en/libraries/hellothing_bg96_nbiot/
